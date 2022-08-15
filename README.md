@@ -8,7 +8,7 @@
     🎯 My Goal is to become a **full-stack developer**. 
     ✨ I love to create different types of **contents and projects**.
 <td >
-# this is my daily.dev card, you can edit this accordingly
+#
     <a href="https://app.daily.dev/josber25"><img src="https://api.daily.dev/devcards/1718010fd8f346eea3f2795389f1635d.png?r=e3h" width="400" alt="Joselin Reyes's Dev Card"/></a>
   </td>
 </tr>
