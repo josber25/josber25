@@ -1,5 +1,4 @@
-# Hi I'm josber25 👋
-    # 💫 About Me:
+# 💫 About Me:
 💻I'm currently working on my full-stack web development progress <br>📍I'm looking to collaborate on open source projects <br>🔗I'm looking for help with learn english for interviwe preparation<br>🔎I'm currently learning React <br>💡Ask me about self-learning<br>💊Fun fact is I leave my university degree for introduce me in tech industry 
 
 
@@ -21,4 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=josber25&icon=0&color=0)](https://visitcount.itsvg.in)
-
